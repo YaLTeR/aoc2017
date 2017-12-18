@@ -5,3 +5,4 @@ authors = ["Ivan Molodetskikh <yalterz@gmail.com>"]
 
 [dependencies]
 itertools = "0.7"
+petgraph = "0.4"

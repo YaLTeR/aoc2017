@@ -1,5 +1,6 @@
 #[macro_use]
 extern crate itertools;
+extern crate petgraph;
 
 mod p1;
 mod p2;
@@ -12,7 +13,8 @@ mod p8;
 mod p9;
 mod p10;
 mod p11;
+mod p12;
 
 fn main() {
-    p11::run();
+    p12::run();
 }
